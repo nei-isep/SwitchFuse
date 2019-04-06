@@ -1,0 +1,6 @@
+[
+null,
+{"id":1,"battlerName":"MainCharactersWalker","characterIndex":0,"characterName":"MainCharactersWalker","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"MainCharacters","traits":[],"initialLevel":1,"maxLevel":99,"name":"Chad D. Helmsley","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"MainCharacterGirlWalker","characterIndex":1,"characterName":"MainCharactersWalker","classId":2,"equips":[2,1,2,3,0],"faceIndex":1,"faceName":"MainCharacters","traits":[],"initialLevel":1,"maxLevel":99,"name":"Ashley Hunter","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"MainCharactersCaptainWalker","characterIndex":2,"characterName":"MainCharactersWalker","classId":3,"equips":[3,0,2,3,4],"faceIndex":2,"faceName":"MainCharacters","traits":[],"initialLevel":1,"maxLevel":99,"name":"Cpt. Hearst","nickname":"","note":"","profile":""}
+]
